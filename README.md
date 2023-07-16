@@ -63,3 +63,9 @@
 - Report any violations of the rules to the designated moderation team.
     
 - Moderators will review reports and take appropriate actions in accordance with established procedures.
+
+This server uses Sapphire bot’s artificial intelligence moderation. Thing such as hate speech, racism, sexism, threats, etc. are strictly prohibited within Phalandia’s communications, that includes Discord, Reddit, etc.
+
+Please show some respect to others and higher-ups as it can benefit you.
+
+Gore, NSFW, NSFL, etc. are strictly prohibited within Phalandia’s communications.
