@@ -1,4 +1,4 @@
-# Discord Rules
+# Phalandia’s Discord Rules
 
 
 
